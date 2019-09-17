@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b969cbd-7ad8-4013-912c-432f67f30c7a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Qw3r04gFt4lJ7mfBld5loWdjYl" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/browser-driver/windows" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/browser-driver/windows" />
+      <recent name="$PROJECT_DIR$/browser-driver/mac" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestYouTube.testSearchBarOption">
+    <configuration name="TestYouTube" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="YouTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="YouTube.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="YouTube" />
+      <option name="MAIN_CLASS_NAME" value="YouTube.TestYouTube" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestYouTube.testDropDownMenu" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="YouTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="YouTube.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="YouTube" />
+      <option name="MAIN_CLASS_NAME" value="YouTube.TestYouTube" />
+      <option name="METHOD_NAME" value="testDropDownMenu" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestYouTube.testSearchBarOption" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="YouTube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="YouTube.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="YouTube" />
+      <option name="MAIN_CLASS_NAME" value="YouTube.TestYouTube" />
+      <option name="METHOD_NAME" value="testSearchBarOption" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestYouTube.testSearchBarOption" />
+        <item itemvalue="TestNG.TestYouTube" />
+        <item itemvalue="TestNG.TestYouTube.testDropDownMenu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b969cbd-7ad8-4013-912c-432f67f30c7a" name="Default Changelist" comment="" />
+      <created>1568668025775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568668025775</updated>
+    </task>
+    <servers />
+  </component>
+</project>
