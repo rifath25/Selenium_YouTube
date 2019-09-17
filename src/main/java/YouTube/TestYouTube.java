@@ -28,6 +28,7 @@ public class TestYouTube {
         driver.findElement(By.name("search_query")).click();
         driver.findElement(By.name("search_query")).sendKeys("drake");
         driver.findElement(By.cssSelector("#search-icon-legacy > yt-icon")).click();
+        driver.findElement(By.xpath(" //h3[@class=\"title-and-badge style-scope ytd-video-renderer\"] /a[@href=\"/watch?v=zCNxXQ_bbuE\"]")).click();
         Thread.sleep(5000);
         driver.navigate().back();
         driver.findElement(By.name("search_query")).clear();
@@ -35,6 +36,7 @@ public class TestYouTube {
         driver.findElement(By.name("search_query")).sendKeys("Ariana Grande");
         driver.findElement(By.cssSelector("#search-icon-legacy > yt-icon")).click();
         Thread.sleep(5000);
+        driver.findElement(By.xpath("//h3[@class=\"title-and-badge style-scope ytd-video-renderer\"]/a[@href=\"/watch?v=QYh6mYIJG2Y\"]")).click();
     }
 
     @AfterMethod
